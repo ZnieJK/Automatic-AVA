@@ -1,2 +1,2 @@
-# Automated Visual Acuity System for TU hospital
-This is a Non-senior group assignment which has continue from my URA project since ..., this project is floki from the originate repository in the purpose to be collect as one of my portfolio
+# Automated Visual Acuity System for TU Hospital
+This is a Non-senior group assignment which has continued from my URA project since [blank]. This project is a fork from the original repository (https://github.com/supermind-c/Automatic-VA) to be collected as part of my portfolio
